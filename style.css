@@ -1,0 +1,35 @@
+.container {
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: #9ed077;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+#nameInput {
+    padding: 8px;
+    border: 1px solid #021c31;
+    border-radius: 4px;
+}
+
+#greetButton {
+    padding: 8px 16px;
+    background-color: #b3c0d4a6;
+    color: rgb(239, 244, 246);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#greeting {
+    font-weight: bold;
+    color: #809bba;
+}
+body{
+    background-color: rgb(3, 55, 55);
+}
